@@ -9,4 +9,5 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - Git
 
 [Mi Linkedin](https://linkedin.com/in/02kellyv)
-![Mi Linkedin](https://github.com/02KellyDev/02KellyDev/blob/main/kelly_villa.png?raw=true)
+
+<img src="https://github.com/02KellyDev/02KellyDev/blob/main/kelly_villa.png" width="200"> 
