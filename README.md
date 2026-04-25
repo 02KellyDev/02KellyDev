@@ -1,3 +1,4 @@
+  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
 # Hola 👋
 
 Soy estudiante de programación/ingeniería de sistemas/etc...
