@@ -9,4 +9,4 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - Git
 
 [Mi Linkedin](https://linkedin.com/in/02kellyv)
-![Mi Linkedin](https://ucompensar.edu.co/wp-content/uploads/2025/08/Ingenieria-de-Sistemas-Perfil-interna-scaled.webp)
+![Mi Linkedin](https://github.com/02KellyDev/02KellyDev/blob/main/kelly_villa.png?raw=true)
