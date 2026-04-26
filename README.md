@@ -1,21 +1,4 @@
-  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
-# Hola 👋
-
-Soy estudiante de programación/ingeniería de sistemas/etc...
-
-## Tecnologías que estoy aprendiendo
-
-- JavaScript
-- Python
-- Git
-
-[Mi Linkedin](https://linkedin.com/in/02kellyv)
-
-<img src="https://github.com/02KellyDev/02KellyDev/blob/main/kelly_villa.png" width="200"> 
-
-# 💫 About Me:
-Eres **Kelly Villa**, pero más allá del nombre, aquí solo sé lo que has compartido en esta conversación: trabajas en marketing para **CaribeDev.org**, organizas iniciativas como CaribeConf y eventos tech en Barranquilla, y te mueves en comunidad y tecnología.<br><br>Si quieres, puedo ayudarte a construir una bio corta y potente para LinkedIn o redes 👀<br>
-
+<img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/02kellyv) 
@@ -35,5 +18,3 @@ Eres **Kelly Villa**, pero más allá del nombre, aquí solo sé lo que has comp
 
 ---
 [![](https://komarev.com/ghpvc/?username=02kellydev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
