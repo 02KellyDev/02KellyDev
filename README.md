@@ -358,11 +358,13 @@ improve it. Repeat.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My GitHub Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/02KellyDev/02KellyDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+![Snake animation - Light](https://raw.githubusercontent.com/02KellyDev/02KellyDev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![Snake animation - Dark](https://raw.githubusercontent.com/02KellyDev/02KellyDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
