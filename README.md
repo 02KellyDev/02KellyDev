@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://giffiles.alphacoders.com/377/37708.gif" width="85%" />
-
 <br/>
 
 <img src="./kelly_villa.png" width="155" style="border-radius: 50%;" />
@@ -23,6 +21,8 @@
 </div>
 
 ---
+<img src="https://giffiles.alphacoders.com/377/37708.gif" width="85%" />
+
 
 <!-- ================= ABOUT ME ================= -->
 
