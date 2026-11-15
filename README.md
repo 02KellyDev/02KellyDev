@@ -18,11 +18,11 @@
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-000000?style=for-the-badge&logo=medium)](https://medium.com/@02KellyV)
 [![CaribeDev](https://img.shields.io/badge/CaribeDev-Community-FF6B35?style=for-the-badge)](https://caribedev.org)
 
+
+<img src="https://giffiles.alphacoders.com/377/37708.gif" width="85%" />
 </div>
 
----
-<img src="https://giffiles.alphacoders.com/377/37708.gif" width="85%" />
-
+--- 
 
 <!-- ================= ABOUT ME ================= -->
 
