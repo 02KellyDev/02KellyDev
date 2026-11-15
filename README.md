@@ -312,15 +312,15 @@ I enjoy documenting what I learn and sharing technical knowledge.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=02Kellyv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02KellyDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02Kellyv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=02KellyDev&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=02Kellyv&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=02KellyDev&theme=tokyo-night&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=02Kellyv&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -342,19 +342,13 @@ If you're visiting my GitHub, welcome! 👀 Here are a few things I want you to 
 
 > 🧩 Break big problems into smaller problems. That's software engineering.
 
-> 🐛 Debugging is not failure. It's part of the job.
-
-> 📖 Read documentation. Google is useful, but understanding is better.
+> 🐛 Debugging an error is not failure. It's part of the job.
 
 > 🌱 Your first project doesn't need to be perfect. It needs to exist.
 
-> 🤖 AI can help you write code, but you must be able to explain,
-> understand, test and maintain what you deliver.
+> 🤖 AI can help you write code, but you must be able to explain, understand, test and maintain what you deliver.
 
 > 🚀 Build a portfolio. Your GitHub is part of your professional story.
-
-**My challenge for you:** Build something, document it, share it and
-improve it. Repeat.
 
 ---
 
